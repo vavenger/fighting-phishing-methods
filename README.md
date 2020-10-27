@@ -95,6 +95,8 @@
 - DomainWatch, https://domainwat.ch/
 
 ## IPアドレス
+- Censys, https://censys.io/
+- SHODAN, https://www.shodan.io/
 - Hurricane Electric BGP Toolkit, https://bgp.he.net/
 - MYIP.MS, https://myip.ms/
 - ipinfo.io, https://ipinfo.io/
