@@ -77,8 +77,9 @@
 - ScreenshotMachine, http://screenshotmachine.com/
 
 ## 状態取得・調査
-- Urlscan.io, https://urlscan.io/
 - aguse.jp, https://www.aguse.jp/
+- Urlscan.io, https://urlscan.io/
+- Web Insight, https://webint.io/
 
 ## サイト評価
 - VirusTotal, https://www.virustotal.com/gui/domain/
