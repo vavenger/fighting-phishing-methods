@@ -28,6 +28,54 @@
 >6. 活動記録の保存
 >7. 実社会での活動
 
+偽サイト探索を行う上では、安全に活動できるための知識・技能を身に付けることが必要不可欠です。OPSEC（Operations Security）の確保について検討します。
+
+# OPSEC（作戦保全, 運用上のセキュリティ）
+## 目的
+任務・作戦・活動に関するセンシティブな機密情報を識別・統制・秘匿にすること。および、その任務・作戦・活動を敵が侵害する能力を無効化または緩和すること。
+
+> 参考文献
+> National Security Agency 「[PURPLE DRAGON: The Origin and Development of the United States OPSEC Program](https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/cryptologic-histories/purple_dragon.pdf)」
+
+## OPSECを実現するための5ステップ
+> 「[Operations Security INTELLIGENCE THREAT HANDBOOK](https://fas.org/irp/nsa/ioss/threat96/index.html)」より。
+
+1. 重要な情報を特定する
+2. 潜在的な脅威を分析する
+3. 自分の弱点を知る
+4. リスクを評価する
+5. 対策を講じる
+
+- どの程度保護すべき情報なのか理解しておく。
+- 露出した場合の個人的または職業的な影響について想像力を働かせる。
+
+## 露出した際の影響を検討すべき事項（一例）
+- 氏名
+- 居住地 / 職場
+- 誕生日
+- メールアドレス / パスワード
+- 金融情報
+- 電話番号（個人 / 職場）
+- 所属（職業）
+- サイバー空間上に残された活動の軌跡
+- ソーシャルメディア（投稿/写真/動画/各種アプリケーションの使用歴）
+- 家族/同僚/友人
+
+## Cyber OPSEC確保のためのツールとヒント
+- Qubes OS, https://www.qubes-os.org/
+- Whonix, https://www.whonix.org/
+- Tails, https://tails.boum.org/
+- VeraCrypt, https://www.veracrypt.fr/
+- Tor Browser, https://www.torproject.org/
+- ブラウザの「プライバシーモード」（Incognito Mode）
+- 「ブラウザ拡張機能」（Browser Extension）
+    - Privacy Badger
+    - uBlock Origin
+    - User-Agent-Switcher
+    - Canvas Defender
+    - ScriptSafe
+    - Location Guard
+
 # 代表的な詐欺サイト
 ## フィッシング詐欺サイト
 フィッシング（Phishing）とは、実在する組織を騙って、ユーザネーム、パスワード、アカウントID、ATMの暗証番号、クレジットカード番号といった個人情報を詐取する行為です。
