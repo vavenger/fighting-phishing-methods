@@ -34,7 +34,6 @@
 ## 目的
 任務・作戦・活動に関するセンシティブな機密情報を識別・統制・秘匿にすること。および、その任務・作戦・活動を敵が侵害する能力を無効化または緩和すること。
 
-> 参考文献
 > National Security Agency 「[PURPLE DRAGON: The Origin and Development of the United States OPSEC Program](https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/cryptologic-histories/purple_dragon.pdf)」
 
 ## OPSECを実現するための5ステップ
