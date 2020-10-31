@@ -113,6 +113,7 @@
 - PhishStats, https://phishstats.info/
 - Phishing.Databasem, https://github.com/mitchellkrogza/Phishing.Database
 - neonprimetime / PhishingKitTracker, https://github.com/neonprimetime/PhishingKitTracker
+- dubstard / phishing_kits, https://github.com/dubstard/phishing_kits
 
 ## ドメイン名の探索
 - DN Pedia, https://dnpedia.com/tlds/search.php
