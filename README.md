@@ -166,6 +166,7 @@
 - [x0rz / phishing_catcher](https://github.com/x0rz/phishing_catcher)
 - [t4d / StalkPhish](https://github.com/t4d/StalkPhish)
 - [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)：ユーザー名でソーシャルメディアアカウントを探すツール
+- [zerofox-oss / phishpond](https://github.com/zerofox-oss/phishpond)：Phish Kitを分析するためのDocker環境
 
 # 悪性ドメインのハンティング方法
 1. 「[DN Pedia](https://dnpedia.com/tlds/search.php)」を使い、ブランド名や特徴的な単語をクエリに検索する
