@@ -380,6 +380,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - JPCERT/CCに報告されたフィッシングサイトの傾向, 2020年03月19日, https://blogs.jpcert.or.jp/ja/2020/03/phishing2019.html
 
 ## 講演スライド
+- ninoseki, sepi140, papa_anniekey, Phishing Kit Analysis Workshop, 2020年10月31日, https://speakerdeck.com/ninoseki/avtokyo-2020-phishing-kit-analysis-workshop
 - 大角祐介, フィッシング詐欺と如何に戦い、そして如何にして勝つか, 2019年10月16日, https://www.slideshare.net/techblogyahoo/mixleap
 - 今井健, 国内を標的とした 銀行フィッシング詐欺の分析, 2020年02月13日, https://speakerdeck.com/studentkyushu/guo-nei-wobiao-de-tosita-yin-xing-huitusinguzha-qi-falsefen-xi
 - 林憲明, APWG Counter-eCrime Operations Summit 2013 (CeCOS VII), Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見), 2013年04月23日, https://www.antiphishing.jp/report/wg/2013cecosvii.html
