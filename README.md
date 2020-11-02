@@ -98,6 +98,15 @@
 
 - トレンドマイクロ セキュリティブログ 「[不安をあおって電話でだます「サポート詐欺」の手口を追う](https://blog.trendmicro.co.jp/archives/13970)」, 2016年10月31日
 
+## Japanese Keyword Hack
+「Japanese Keyword Hack」とは、SEOスパム（検索エンジンで自身のウェブサイトが検索結果の上位に表示させるように、何らかの仕掛け）の一種です。
+犯罪者はランダムに生成されたディレクトリに自動生成の日本語テキストを含む新しいページを作成します。このページには、犯罪者が誘導を望むページ（例えば、偽ブランド商品を販売しているストアへのアフィリエイトリンク）が設置されます。これにより、感染したページのタイトルと説明に日本語の単語が表示され、「SERP（Search Engine Result Pages）」が乗っ取られることになります。
+
+- Google Developers 「[日本語キーワードによるハッキングを解決する](https://developers.google.com/web/fundamentals/security/hacked/fixing_the_japanese_keyword_hack?hl=ja)」
+- ASTRA Security 「[Google Showing Japanese Keywords For Your Website – Fixing Japanese Keyword Hack](https://www.getastra.com/blog/911/japanese-keyword-hack/)」, 2020/09/14
+- Sucuri 「[How to Find & Fix the Japanese Keyword Hack](https://blog.sucuri.net/2020/04/japanese-keyword-hack.html)」, 2020/04/02
+- Sucuri 「[Why is Your Website a Target? The SEO Value of a Website](https://blog.sucuri.net/2019/06/why-is-your-website-a-target-the-seo-value-of-a-website.html)」, 2019/06/24
+
 # 犯罪者が被害者を詐欺サイトへ誘導する手口
 
 | 手口 | 代表的な事例 |
