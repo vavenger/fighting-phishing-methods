@@ -28,7 +28,8 @@
 >6. 活動記録の保存
 >7. 実社会での活動
 
-偽サイト探索を行う上では、安全に活動できるための知識・技能を身に付けることが必要不可欠です。OPSEC（Operations Security）の確保について検討します。
+偽サイト探索を行う上では、安全に活動できるための知識・技能を身に付けることが必要不可欠です。言い換えると、サイバー犯罪者の調査は、多くのリサーチャーが認識しているよりも危険な場合があります。
+そこで、OPSEC（Operations Security）の確保について検討します。
 
 # OPSEC（作戦保全, 運用上のセキュリティ）
 ## 目的
@@ -60,12 +61,22 @@
 - ソーシャルメディア（投稿/写真/動画/各種アプリケーションの使用歴）
 - 家族/同僚/友人
 
+## 偽サイト調査における注意事項
+- 組織のネットワークまたはプロキシから偽サイトにアクセスする
+    - 犯罪者はあなたが何をしているのかを簡単に知ることができます。犯罪者に痕跡を辿られることが無いように匿名化した通信経路を確保すべきです。
+- 偽サイトの誘導URLから個人識別情報の除去を怠る
+    - 偽サイトのURLには、どのメールアドレスに送ったリンクからアクセスされたかを知るための「トラッキングURL」の機構を悪用している場合があります。また、
+「URLクエリパラメータ」中にメールアドレスや個人氏名が含まれている場合もあります。このような個人の識別に繋がる情報は適切にマスク処理を行った上で対応すべきです。
+
+> cosive, Watching Them Watching You: Opsec for Security Investigators, https://www.cosive.com/blog/2019/12/3/watching-them-watching-you-opsec-for-security-investigators, 2019/12/17
+
 ## Cyber OPSEC確保のためのツールとヒント
 - Qubes OS, https://www.qubes-os.org/
 - Whonix, https://www.whonix.org/
 - Tails, https://tails.boum.org/
 - VeraCrypt, https://www.veracrypt.fr/
 - Tor Browser, https://www.torproject.org/
+- Braveブラウザ, https://brave.com/ja/
 - ブラウザの「プライバシーモード」（Incognito Mode）
 - 「ブラウザ拡張機能」（Browser Extension）
     - Privacy Badger
