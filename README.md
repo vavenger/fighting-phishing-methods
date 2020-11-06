@@ -175,6 +175,7 @@
  
 ## ホスティングプロバイダの特定
 - HostingDetector.com, https://hostingdetector.com/
+- Google Admin Toolbox Dig, https://toolbox.googleapps.com/apps/dig/#A/
 - BGPView, https://bgpview.io/
 
 ## 電子証明書の登録情報
