@@ -175,6 +175,7 @@
  
 ## ホスティングプロバイダの特定
 - HostingDetector.com, https://hostingdetector.com/
+- BGPView, https://bgpview.io/
 
 ## 電子証明書の登録情報
 - Certstream, https://certstream.calidog.io/
