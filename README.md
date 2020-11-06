@@ -176,6 +176,10 @@
 ## ホスティングプロバイダの特定
 - HostingDetector.com, https://hostingdetector.com/
 
+## 電子証明書の登録情報
+- Certstream, https://certstream.calidog.io/
+- Certificate Search, https://crt.sh/
+
 >最新の情報源については「[普段の調査で利用するOSINTまとめ](https://qiita.com/00001B1A/items/4d8ceb53993d3217307e)」をオススメします。
 
 # 探索に有効な無償利用可能なツール
