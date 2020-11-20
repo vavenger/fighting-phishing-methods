@@ -152,6 +152,11 @@
 - Urlscan.io, https://urlscan.io/
 - Web Insight, https://webint.io/
 
+## 死活監視
+- httpstatus, https://httpstatus.io/
+- Pingdom, https://www.pingdom.com/
+- Uptime Robot, https://uptimerobot.com/
+
 ## サイト評価
 - VirusTotal, https://www.virustotal.com/gui/domain/
 - Google Safe Browsing API, https://safebrowsing.google.com/
