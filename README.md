@@ -420,6 +420,11 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - 今井健, 国内を標的とした 銀行フィッシング詐欺の分析, 2020年02月13日, https://speakerdeck.com/studentkyushu/guo-nei-wobiao-de-tosita-yin-xing-huitusinguzha-qi-falsefen-xi
 - 林憲明, APWG Counter-eCrime Operations Summit 2013 (CeCOS VII), Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見), 2013年04月23日, https://www.antiphishing.jp/report/wg/2013cecosvii.html
 - 林憲明, APWGセミナー, 【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで, 2018年07月02日, https://www.slideshare.net/NoriakiHayashi/live-230725152
+- A Oest (2020) “[Sunrise to Sunset: Analyzing the End-to-end Life Cycle and Effectiveness of Phishing Attacks at Scale](https://www.usenix.org/conference/usenixsecurity20/presentation/oest-sunrise)” USENIX Security '20
+- H Kodera, M Niseki (2019) “[Catch Phish If You Can](https://revuln.com/files/slides/revuln19/revuln19_4.pdf)” REVULN '19
+- A Oest (2020) “[PhishTime: Continuous Longitudinal Measurement of the Effectiveness of Anti-phishing Blacklists](https://www.usenix.org/conference/usenixsecurity20/presentation/oest-phishtime)” USENIX Security '20
+- A Oest (2018) “[Inside a Phisher’s Mind: Understanding the Anti-phishing Ecosystem Through Phishing Kit Analysis](https://docs.apwg.org/ecrimeresearch/2018/5349207.pdf)” 2018 APWG Symposium
+- Akamai (2019) “[Phishing - Baiting the Hook](https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/soti-security-phishing-baiting-the-hook-report-2019.pdf)”
 
 ## Phish Hunter記事
 - Manabu Niseki, ゼロからはじめるフィッシング対策, https://ninoseki.github.io/2019/01/24/how-to-protect-you-from-phishing.html
