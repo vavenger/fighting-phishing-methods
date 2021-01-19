@@ -425,6 +425,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - A Oest (2020) “[PhishTime: Continuous Longitudinal Measurement of the Effectiveness of Anti-phishing Blacklists](https://www.usenix.org/conference/usenixsecurity20/presentation/oest-phishtime)” USENIX Security '20
 - A Oest (2018) “[Inside a Phisher’s Mind: Understanding the Anti-phishing Ecosystem Through Phishing Kit Analysis](https://docs.apwg.org/ecrimeresearch/2018/5349207.pdf)” 2018 APWG Symposium
 - Akamai (2019) “[Phishing - Baiting the Hook](https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/soti-security-phishing-baiting-the-hook-report-2019.pdf)”
+- 阿曽村一郎, フィッシング対策セミナー 2020, みずほのサイバーセキュリティへの取組み, 2020年11月06日 ,https://www.antiphishing.jp/news/apcseminar2020mizuho.pdf
 
 ## Phish Hunter記事
 - Manabu Niseki, ゼロからはじめるフィッシング対策, https://ninoseki.github.io/2019/01/24/how-to-protect-you-from-phishing.html
