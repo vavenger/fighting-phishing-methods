@@ -436,6 +436,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - Imperva, Our Analysis of 1,019 Phishing Kits, 2018年01月04日, https://www.imperva.com/blog/our-analysis-of-1019-phishing-kits/
 
 ## Qiita投稿記事
+- @retrorocket, レンタルサーバー運営会社に不正利用を通報したときの窓口と、各社の対応をまとめた。, https://qiita.com/retrorocket/items/41e7bf90aab6017c4275
 - @moneymog, あやしいサイトの3分調査方法(初心者向け), https://qiita.com/moneymog/items/2205388ff18b3f89f021
 - @sanyamarseille, 使えるサイト, https://qiita.com/sanyamarseille/items/da922f62e4b41ccf4cab
 - @00001B1A, 普段の調査で利用するOSINTまとめ, https://qiita.com/00001B1A/items/4d8ceb53993d3217307e
