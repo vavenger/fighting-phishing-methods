@@ -440,3 +440,4 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - @moneymog, あやしいサイトの3分調査方法(初心者向け), https://qiita.com/moneymog/items/2205388ff18b3f89f021
 - @sanyamarseille, 使えるサイト, https://qiita.com/sanyamarseille/items/da922f62e4b41ccf4cab
 - @00001B1A, 普段の調査で利用するOSINTまとめ, https://qiita.com/00001B1A/items/4d8ceb53993d3217307e
+- @spammailinfo, 【フィッシングサイト探索Tips】似た構造のWebサイトを探す, https://qiita.com/spammailinfo/items/076f47403dee3531114f
