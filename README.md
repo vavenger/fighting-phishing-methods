@@ -428,13 +428,15 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - フィッシング対策協議会 「フィッシングサイト URL 提供」, https://www.antiphishing.jp/enterprise/url.html 
 - フィッシング対策協議会 「フィッシング対策ガイドライン 2020年度版」, 2020年06月02日, https://www.antiphishing.jp/report/antiphishing_guideline_2020.pdf
 - フィッシング対策協議会 「フィッシングレポート 2020 の掲載について」, 2020年06月02日, https://www.antiphishing.jp/report/phishing_report_2020.pdf
-- 一般社団法人 セキュリティ対策推進協議会（SPREAD）, いまなお深刻なフィッシング詐欺被害, 2015年04月22日, https://www.spread.or.jp/column/2015/04/22/2947/
+- 一般社団法人 セキュリティ対策推進協議会（SPREAD）, いまなお深刻なフィッシング詐欺被害, 2015年04月22日, https://web.archive.org/web/20201031185513/https://www.spread.or.jp/column/2015/04/22/2947/
+- フィッシング対策協議会 「フィッシング詐欺のビジネスプロセス分類」を公開」, 2021年03月16日, https://www.antiphishing.jp/news/info/collabo_20210316.html
 
 ## JPCERT/CC
 - 偽JPCERTドメイン名を取り戻すための60日間~ドメイン名紛争処理をしてみた～, 2017年05月19日, https://blogs.jpcert.or.jp/ja/2017/05/udrp.html
 - JPCERT/CCに報告されたフィッシングサイトの傾向, 2020年03月19日, https://blogs.jpcert.or.jp/ja/2020/03/phishing2019.html
 
 ## 講演スライド
+- 林憲明, 第92回コンピュータセキュリティ合同研究発表会, フィッシング詐欺のビジネスプロセス分類, 2021年03月15日, https://www.antiphishing.jp/news/collabo_20210316_CSEC.pdf
 - ninoseki, sepi140, papa_anniekey, Phishing Kit Analysis Workshop, 2020年10月31日, https://speakerdeck.com/ninoseki/avtokyo-2020-phishing-kit-analysis-workshop
 - 大角祐介, フィッシング詐欺と如何に戦い、そして如何にして勝つか, 2019年10月16日, https://www.slideshare.net/techblogyahoo/mixleap
 - hiro([@catnap707](https://twitter.com/catnap707)), 偽サイトをOSINTツールで追う！〜犯人像をプロファイリング〜, 2019年07月12日, https://speakerdeck.com/ctrl_z3r0/osint-profiling-20190712
