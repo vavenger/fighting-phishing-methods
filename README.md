@@ -465,3 +465,4 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - @sanyamarseille, 使えるサイト, https://qiita.com/sanyamarseille/items/da922f62e4b41ccf4cab
 - @00001B1A, 普段の調査で利用するOSINTまとめ, https://qiita.com/00001B1A/items/4d8ceb53993d3217307e
 - @spammailinfo, 【フィッシングサイト探索Tips】似た構造のWebサイトを探す, https://qiita.com/spammailinfo/items/076f47403dee3531114f
+- @masaomi346, Dockerで始めるフィッシングキットの収集・分析, https://qiita.com/masaomi346/items/1a216b0cde17ca4be1ce
