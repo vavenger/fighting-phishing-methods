@@ -2,6 +2,7 @@
 
 # 登壇資料
 [![thumbnail](https://image.slidesharecdn.com/20180702apwgnoriakihayashi-200323101709/95/live-1-638.jpg)](https://www.slideshare.net/NoriakiHayashi/live-230725152)
+![スライド](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/294810/0c46c29c-951e-3a33-0f1b-b8df5836c5d5.jpeg)
 
 - 登壇資料のダウンロードはこちら -> [【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://www.slideshare.net/NoriakiHayashi/live-230725152)
 
