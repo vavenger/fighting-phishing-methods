@@ -1,10 +1,9 @@
 本稿は、2018年7月2日に開催された Anti-Phishing Working Group 主催『[巧妙化・国際化するオンライン詐欺やサイバー犯罪にどう対応していくのか？](https://apwg-201807.peatix.com/)』にて講演された内容の解説記事です。
 
 # 登壇資料
-[![thumbnail](https://image.slidesharecdn.com/20180702apwgnoriakihayashi-200323101709/95/live-1-638.jpg)](https://www.slideshare.net/NoriakiHayashi/live-230725152)
 ![スライド](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/294810/0c46c29c-951e-3a33-0f1b-b8df5836c5d5.jpeg)
 
-- 登壇資料のダウンロードはこちら -> [【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://www.slideshare.net/NoriakiHayashi/live-230725152)
+- 登壇資料のダウンロードはこちら -> [【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://speakerdeck.com/v_avenger/live-sukugong-xian-tekiru-wei-saitofalsetan-suo-karatong-bao-made)
 
 不特定多数を狙った偽サイト・フィッシング詐欺は未然に防ぐのが難しく、犯罪者にとっては期待利益が高い犯行のひとつです。こうした現状を打開しようと、個人のボランティア活動として、技能を活かし「サイバー空間の浄化活動（サイバーパトロール）」に貢献されている方が数多くいらっしゃいます。本セミナーでは、誰かのために貢献してみたいとの志をお持ちの方へ、フリーツールを使った偽サイトの探索から得られた情報の通報先についてLIVE形式でご紹介いたします。
 
@@ -445,7 +444,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - hiro([@catnap707](https://twitter.com/catnap707)), 偽サイトをOSINTツールで追う！〜犯人像をプロファイリング〜, 2019年07月12日, https://speakerdeck.com/ctrl_z3r0/osint-profiling-20190712
 - 今井健, 国内を標的とした 銀行フィッシング詐欺の分析, 2020年02月13日, https://speakerdeck.com/studentkyushu/guo-nei-wobiao-de-tosita-yin-xing-huitusinguzha-qi-falsefen-xi
 - 林憲明, APWG Counter-eCrime Operations Summit 2013 (CeCOS VII), Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見), 2013年04月23日, https://www.antiphishing.jp/report/wg/2013cecosvii.html
-- 林憲明, APWGセミナー, 【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで, 2018年07月02日, https://www.slideshare.net/NoriakiHayashi/live-230725152
+- 林憲明, APWGセミナー, 【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで, 2018年07月02日, https://speakerdeck.com/v_avenger/live-sukugong-xian-tekiru-wei-saitofalsetan-suo-karatong-bao-made
 - A Oest (2020) “[Sunrise to Sunset: Analyzing the End-to-end Life Cycle and Effectiveness of Phishing Attacks at Scale](https://www.usenix.org/conference/usenixsecurity20/presentation/oest-sunrise)” USENIX Security '20
 - H Kodera, M Niseki (2019) “[Catch Phish If You Can](https://revuln.com/files/slides/revuln19/revuln19_4.pdf)” REVULN '19
 - A Oest (2020) “[PhishTime: Continuous Longitudinal Measurement of the Effectiveness of Anti-phishing Blacklists](https://www.usenix.org/conference/usenixsecurity20/presentation/oest-phishtime)” USENIX Security '20
