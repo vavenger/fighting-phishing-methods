@@ -450,7 +450,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - A Oest (2020) “[PhishTime: Continuous Longitudinal Measurement of the Effectiveness of Anti-phishing Blacklists](https://www.usenix.org/conference/usenixsecurity20/presentation/oest-phishtime)” USENIX Security '20
 - A Oest (2018) “[Inside a Phisher’s Mind: Understanding the Anti-phishing Ecosystem Through Phishing Kit Analysis](https://docs.apwg.org/ecrimeresearch/2018/5349207.pdf)” 2018 APWG Symposium
 - Akamai (2019) “[Phishing - Baiting the Hook](https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/soti-security-phishing-baiting-the-hook-report-2019.pdf)”
-- 阿曽村一郎, フィッシング対策セミナー 2020, みずほのサイバーセキュリティへの取組み, 2020年11月06日, https://www.antiphishing.jp/news/apcseminar2020mizuho.pdf
+- 阿曽村一郎, フィッシング対策セミナー 2020, みずほのサイバーセキュリティへの取組み, 2020年11月06日, https://www.antiphishing.jp/pdf/apcseminar2020mizuho.pdf
 
 ## Phish Hunter記事
 - Manabu Niseki, ゼロからはじめるフィッシング対策, https://ninoseki.github.io/2019/01/24/how-to-protect-you-from-phishing.html
@@ -460,6 +460,10 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 ## 英語記事
 - Execute Malware Blog, Finding Phishing Websites, 2016年09月7日, http://executemalware.com/?p=258
 - Imperva, Our Analysis of 1,019 Phishing Kits, 2018年01月04日, https://www.imperva.com/blog/our-analysis-of-1019-phishing-kits/
+
+## 事業会社の取り組み紹介
+- LINE Engineering, LINEを騙るPhishing詐欺対策と戦いの歴史, 2021/09/08, https://engineering.linecorp.com/ja/blog/anti-phishing-scams-2021/
+- Yahoo! Japan, フィッシング詐欺の被害にあわないためにできること, 2021/05/12, https://about.yahoo.co.jp/info/blog/phishing.html
 
 ## Qiita投稿記事
 - @retrorocket, レンタルサーバー運営会社に不正利用を通報したときの窓口と、各社の対応をまとめた。, https://qiita.com/retrorocket/items/41e7bf90aab6017c4275
