@@ -436,6 +436,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - JPCERT/CCに報告されたフィッシングサイトの傾向, 2020年03月19日, https://blogs.jpcert.or.jp/ja/2020/03/phishing2019.html
 
 ## 講演スライド
+- 林憲明, コマンドラインで分析するフィッシングデータセット（初級編）, 2022年04月20日, https://www.docswell.com/s/v_avenger/KPX88Z-Anti-SMiShing-Study-Group_one-liner-phishing-analysis
 - 大角祐介, 注意喚起に注意して！ フィッシングサイト発生時の対応, 2021年11月19日, https://www.slideshare.net/GeneralMeetingJPAAWG/a15-250680876
 - 岡田理, 第3回フィッシング対策勉強会, 野良フィッシングハンター(仮)として考えること, 2021年08月03日, https://www.antiphishing.jp/pdf/apc_3rd_studygroup_ibm.pdf
 - 林憲明, 第92回コンピュータセキュリティ合同研究発表会, フィッシング詐欺のビジネスプロセス分類, 2021年03月15日, https://www.antiphishing.jp/news/collabo_20210316_CSEC.pdf
