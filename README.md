@@ -440,6 +440,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - 大角祐介, 注意喚起に注意して！ フィッシングサイト発生時の対応, 2021年11月19日, https://www.slideshare.net/GeneralMeetingJPAAWG/a15-250680876
 - 岡田理, 第3回フィッシング対策勉強会, 野良フィッシングハンター(仮)として考えること, 2021年08月03日, https://www.antiphishing.jp/pdf/apc_3rd_studygroup_ibm.pdf
 - 林憲明, 第92回コンピュータセキュリティ合同研究発表会, フィッシング詐欺のビジネスプロセス分類, 2021年03月15日, https://www.antiphishing.jp/news/collabo_20210316_CSEC.pdf
+- JPAAWG, B1-5 フィッシング詐欺についてフィッシングハンターが語らナイト！, 2020年11月25日, https://www.slideshare.net/GeneralMeetingJPAAWG/b15-239464276
 - ninoseki, sepi140, papa_anniekey, Phishing Kit Analysis Workshop, 2020年10月31日, https://speakerdeck.com/ninoseki/avtokyo-2020-phishing-kit-analysis-workshop
 - 大角祐介, フィッシング詐欺と如何に戦い、そして如何にして勝つか, 2019年10月16日, https://www.slideshare.net/techblogyahoo/mixleap
 - hiro([@catnap707](https://twitter.com/catnap707)), 偽サイトをOSINTツールで追う！〜犯人像をプロファイリング〜, 2019年07月12日, https://speakerdeck.com/ctrl_z3r0/osint-profiling-20190712
