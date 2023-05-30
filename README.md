@@ -458,6 +458,9 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - Manabu Niseki, ゼロからはじめるフィッシング対策, https://ninoseki.github.io/2019/01/24/how-to-protect-you-from-phishing.html
 - 午前７時のしなもんぶろぐ, 【やってみた】意外と簡単？　フィッシングサイトの発見から通報まで, 2020年9月22日, https://am7cinnamon.hatenablog.com/entry/how-to-phishhunt
 - あるもりすぶろぐ, フィッシングサイトの調査をしてみた, 2021年11月19日, https://armoris.hatenablog.com/entry/2021/11/19/165100
+- tatsui, フィッシングサイト自動テイクダウンの手法, 2023年02月09日, https://zenn.dev/tatsui/articles/56ca648e79faff
+- tatsui, Web Risk APIを使ったフィッシングサイト対策, 2023年02月17日, https://zenn.dev/tatsui/articles/31e5d8449d16f0
+- tatsui, フィッシングサイトを探す方法, 2023年03月01日, https://zenn.dev/tatsui/articles/1dff8410b7bdd7
 
 ## 英語記事
 - Execute Malware Blog, Finding Phishing Websites, 2016年09月7日, http://executemalware.com/?p=258
