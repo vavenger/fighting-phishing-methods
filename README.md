@@ -394,6 +394,14 @@ info@example.org => info[at]example[.]org
 >
 > 提供先組織 43 組織 (2020 年 6月時点)
 
+- 『[フィッシング対策ガイドライン 2023 年度版](https://www.antiphishing.jp/report/guideline/antiphishing_guideline2023.html)』
+    事業者向けに Webサイト運営者が考慮すべき要件を整理し、要件を紹介。
+- 『[利用者向けフィッシング詐欺対策ガイドライン](https://www.antiphishing.jp/report/guideline/consumer_guideline2023.html)』
+    利用者向けに 注意すべき事項や被害に遭遇した際に相談すべき窓口などを紹介。
+
+- 『[詐欺サイト対処机上演習](https://www.antiphishing.jp/news/info/tabletopexercise_20230602.html)』
+    事業者向けのシナリオ提示型 机上演習
+
 ## 警察庁の取り組み
 
 - 警察庁 広報資料「[APWGに対する海外偽サイト等の情報提供の開始について](https://www.npa.go.jp/cyber/pdf/APWG.pdf)」, 平成28年（2016年）7月14日 より参照
