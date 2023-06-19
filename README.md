@@ -471,6 +471,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - tatsui, フィッシングサイトを探す方法, 2023年03月01日, https://zenn.dev/tatsui/articles/1dff8410b7bdd7
 
 ## 英語記事
+- Detecting Phishing Sites Using ChatGPT, 2023年06月09日, https://arxiv.org/abs/2306.05816
 - Execute Malware Blog, Finding Phishing Websites, 2016年09月7日, http://executemalware.com/?p=258
 - Imperva, Our Analysis of 1,019 Phishing Kits, 2018年01月04日, https://www.imperva.com/blog/our-analysis-of-1019-phishing-kits/
 
