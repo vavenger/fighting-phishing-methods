@@ -469,6 +469,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - tatsui, フィッシングサイト自動テイクダウンの手法, 2023年02月09日, https://zenn.dev/tatsui/articles/56ca648e79faff
 - tatsui, Web Risk APIを使ったフィッシングサイト対策, 2023年02月17日, https://zenn.dev/tatsui/articles/31e5d8449d16f0
 - tatsui, フィッシングサイトを探す方法, 2023年03月01日, https://zenn.dev/tatsui/articles/1dff8410b7bdd7
+- ZOZO TECH BLOG, フィッシングハントの始め方, 2023年05月18日, https://techblog.zozo.com/entry/start-phishing-hunt
 
 ## 英語記事
 - Detecting Phishing Sites Using ChatGPT, 2023年06月09日, https://arxiv.org/abs/2306.05816
