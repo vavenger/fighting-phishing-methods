@@ -478,6 +478,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - Imperva, Our Analysis of 1,019 Phishing Kits, 2018年01月04日, https://www.imperva.com/blog/our-analysis-of-1019-phishing-kits/
 
 ## 事業会社の取り組み紹介
+- NTT Communications Engineers' Blog, 日本を狙ったフィッシングサイトの情報配信はじめました, 2023/12/03, https://engineers.ntt.com/entry/2023/12/03/085650
 - LINE Engineering, LINEを騙るPhishing詐欺対策と戦いの歴史, 2021/09/08, https://engineering.linecorp.com/ja/blog/anti-phishing-scams-2021/
 - Yahoo! Japan, フィッシング詐欺の被害にあわないためにできること, 2021/05/12, https://about.yahoo.co.jp/info/blog/phishing.html
 
@@ -489,6 +490,7 @@ PhishTankではコミュニティに登録されたフィッシングURLのデ�
 - @spammailinfo, 【フィッシングサイト探索Tips】似た構造のWebサイトを探す, https://qiita.com/spammailinfo/items/076f47403dee3531114f
 - @masaomi346, Dockerで始めるフィッシングキットの収集・分析, https://qiita.com/masaomi346/items/1a216b0cde17ca4be1ce
 - @schectman-hell, 【機械学習】フィッシングメール傾向分析, https://qiita.com/schectman-hell/items/50c8270de3fb07130a49
+- @mekamaru, フィッシングサイトの見分け方, https://qiita.com/mekamaru/items/629d7da2ef4565343a71
 
 ## 注意喚起の執筆ガイド
 - @KesaGataMe0, Twitter投稿「[注意喚起に掲載すべき内容のガイド](https://twitter.com/KesaGataMe0/status/1451009680197636099)」, 2021/10/21
